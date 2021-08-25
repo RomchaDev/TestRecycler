@@ -1,4 +1,4 @@
-package org.romeo.testrecycler.base.list
+package org.romeo.testrecycler.base.list_1
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData

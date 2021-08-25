@@ -1,4 +1,4 @@
-package org.romeo.testrecycler.base.list
+package org.romeo.testrecycler.base.list_1
 
 import android.view.LayoutInflater
 import android.view.View

@@ -38,4 +38,5 @@ class FragmentViewBindingProperty<T : ViewBinding>(
 
 inline fun <reified T : ViewBinding> Fragment.viewBinding(): ReadOnlyProperty<Fragment, T> {
     return FragmentViewBindingProperty(DefaultViewBinder(T::class.java))
-}*/
+}
+*/
